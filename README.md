@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martinkilombe&label=Profile%20views&color=0e75b6&style=flat" alt="martinkilombe" /> </p>
 
+- 👨‍💻 All of my Data Analyst portfolio projects are available at: [Data-Analyst-Portfolio](https://github.com/martinkilombe/Data-Analyst-Portfolio)
+
 - 👨‍💻 All of my Tableau Portfolio projects are available at: [Tableau_Projects](https://github.com/martinkilombe/Tableau_Projects)
 
-- 💬 Ask me about **Python, SQL, PowerBi, Tableau, Big-Query, Excel**
-
-- 👨‍💻 All of my SQL portfolio projects are available at: **SQL_Projects**
+- 💬 Ask me about: **Python, SQL, PowerBi, Tableau, Big-Query, Excel**
 
 - 📫 Email me at: **martinkilombe@gmail.com**
 
