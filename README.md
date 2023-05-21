@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my Tableau Portfolio projects are available at: [Tableau_Projects](https://github.com/martinkilombe/Tableau_Projects)
 
-- 💬 Ask me about: **Python, SQL, PowerBi, Tableau, Big-Query, Excel**
+- 💬 Ask me about: **Python, SQL, PowerBi, Tableau, Big-Query, Metabase, Excel**
 
 - 📫 Email me at: **martinkilombe@gmail.com**
 
