@@ -9,7 +9,7 @@
 
 - 💬 Ask me about: **Python, SQL, PowerBi, Tableau, Big-Query, Metabase, Excel**
 
-- 📫 Email me at: **martinkilombe@gmail.com**
+- 📫 Email me at: **martin@martinkilombe.dev**
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
